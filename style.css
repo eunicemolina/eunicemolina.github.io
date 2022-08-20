@@ -45,11 +45,9 @@ body {
     text-transform: uppercase;
     font-size: 20px;
 }
-img{
-    margin-top: 20px;
-}
+
 .navbar a:hover {
-    background: #26bb58;
+    background: #e91e63;
 }
 
 .header {
@@ -80,10 +78,10 @@ p {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 40px;
-    border: 2px solid #26bb58;
+    border: 2px solid #e91e63;
     color: #fff;
     text-decoration: none;
-    background: #26bb58;
+    background: #e91e63;
 }
 
 .btn:hover {
@@ -127,14 +125,14 @@ p {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    background: 01f050;
+    background: #e91e63;
     font-size: 25px;
     margin: 10px 0;
 }
 
 .box-container .box h3 {
     font-size: 20px;
-    color: #26bb58;
+    color: #e91e63;
 }
 
 .box-container .box p {
@@ -176,12 +174,12 @@ p {
     object-fit: cover;
     border-radius: 50%;
     margin-top: -50px;
-    border: 6px solid #26bb58;
+    border: 6px solid #e91e63;
 }
 
 .box-container2 .box h3 {
     font-size: 20px;
-    color: #26bb58;
+    color: #e91e63;
     padding-top: 10px;
 }
 
